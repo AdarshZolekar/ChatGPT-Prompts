@@ -10,57 +10,6 @@ We hope you find these prompts useful and have fun exploring AI chat models!
 
 **[View on prompts.chat](https://prompts.chat)**
 
-**[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
----
-
-> ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected
-> or may be rejected by the AI. Please try again, start a new thread, or log out
-> and log back in. If these solutions do not work, please try rewriting the
-> prompt using your own sentences while keeping the instructions same.
-
-### Want to Write Effective Prompts?
-
-I've authored an e-book called **"The Art of ChatGPT Prompting: A Guide to
-Crafting Clear and Effective Prompts"**.
-
-📖 **[Read the e-book](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
-
-### Want to Learn How to Make Money using ChatGPT Prompts?
-
-I've authored an e-book called **"How to Make Money with ChatGPT: Strategies,
-Tips, and Tactics"**.
-
-📖
-**[Buy the e-book](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**
-
-### Want to Learn How to write image prompts for Midjourney AI?
-
-I've authored an e-book called **"The Art of Midjourney AI: A Guide to Creating
-Images from Text"**.
-
-📖
-**[Read the e-book](https://fka.gumroad.com/l/the-art-of-midjourney-ai-guide-to-creating-images-from-text)**
-
----
-
-### Using prompts.chat
-
-[prompts.chat](https://prompts.chat) is designed to provide an enhanced UX when
-working with prompts. With just a few clicks, you can easily edit and copy the
-prompts on the site to fit your specific needs and preferences.
-
-<img width="1400" alt="Screenshot 2025-01-05 at 22 17 19" src="https://github.com/user-attachments/assets/272d2092-b651-452a-a049-f46b31c32889" />
-
----
-
-## Unmerged Prompts
-
-There are many Pull Requests to this repository waiting to be merged. There are
-many hidden gems there. Take a look!
-
-📖
-**[View Unmerged Prompts](https://github.com/f/awesome-chatgpt-prompts/pulls)**
-
 ---
 
 # Prompts
